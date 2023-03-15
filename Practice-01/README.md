@@ -1,1 +1,2 @@
-Smiley Face 작업 중 (Practice-2에서 계속)
+Smiley Face with HTML, CSS, SVG 
+(Practice-2에서 계속)
